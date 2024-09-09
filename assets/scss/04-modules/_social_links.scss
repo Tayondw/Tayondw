@@ -1,0 +1,19 @@
+.social-links {
+    margin-top: 20px;
+
+    @media #{$sm-device} {
+        margin-top: 0;
+    }
+
+    ul {
+        column-gap: 16px
+    }
+
+    li {}
+
+    a {
+        &:hover {
+            color: $warning !important;
+        }
+    }
+}

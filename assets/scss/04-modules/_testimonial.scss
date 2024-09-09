@@ -1,0 +1,95 @@
+.testimonial-title-section {
+    @media #{$tablet-device} {
+        text-align: center;
+
+    }
+
+    @media #{$laptop-device,$big-device} {
+        text-align: left;
+
+    }
+}
+
+
+.testimonial-space-left {
+    @media #{$laptop-device,$big-device} {
+        padding-right: 0;
+
+    }
+
+    @media #{$laptop-device,} {
+        padding-left: 4% !important;
+
+
+    }
+
+    @media #{$big-device} {
+        padding-left: 6% !important;
+
+
+    }
+
+    @media #{$extraBig-device} {
+        padding-left: 17% !important;
+
+
+    }
+
+
+}
+
+.testimonial-gap {
+    column-gap: 55px;
+
+    @media #{$big-device} {
+        column-gap: 100px;
+
+    }
+
+    @media #{$extraBig-device} {
+        column-gap: 165px;
+
+    }
+}
+
+.qotation-icon {
+    margin-bottom: 1.25rem;
+
+    @media #{$sm-device} {
+
+        margin-bottom: 2rem
+    }
+}
+
+.testimonial-texts {
+    font-size: 16px;
+    line-height: 1.75rem;
+    margin-bottom: 1rem;
+    color: rgba(8, 8, 8, 0.8);
+
+    @media #{$sm-device} {
+
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+
+    }
+
+    @media #{$laptop-device,$big-device} {
+        font-size: 1.25rem;
+        line-height: 1.75rem;
+
+    }
+}
+
+.testimonial-qotation-name {
+    font-size: 16px;
+    line-height: 1.75rem;
+    font-weight: 800;
+
+    @media #{$sm-device} {
+
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+
+    }
+}

@@ -1,0 +1,132 @@
+.hero-content-wrapper {
+
+    @media #{$laptop-device,$big-device} {
+        padding-top: 48px;
+    }
+}
+
+.hello-iam {
+    margin-bottom: 12px;
+
+
+    @media #{$desktop-device,$laptop-device,$big-device} {
+        font-size: 32px;
+    }
+
+    span {
+        display: inline-block;
+        margin-right: 24px;
+    }
+
+    img {
+        margin-left: 8px;
+    }
+}
+
+
+.hero-title {
+    color: $dark;
+    font-size: 80px;
+    line-height: 64px;
+
+    @media #{$desktop-device} {
+        font-size: 100px;
+        line-height: 80px;
+    }
+
+    @media #{$laptop-device} {
+        font-size: 120px;
+        line-height: 90px;
+    }
+
+    @media #{$big-device} {
+        font-size: 140px;
+        line-height: 110px;
+    }
+}
+
+.iam-designer {
+    color: rgba($color: $dark, $alpha: 80%);
+
+    @media #{$tablet-device} {
+        font-size: 20px;
+    }
+
+    @media #{$laptop-device,$big-device} {
+        font-size: 24px;
+    }
+
+}
+
+.text-counter {
+    font-size: 44px;
+}
+
+.text-worldwide {
+    margin-left: 12px;
+    color: rgba($color: $dark, $alpha: 80%);
+}
+
+.hero-image {
+
+    @media #{$tablet-device} {
+        max-width: 420px;
+    }
+
+    @media #{$desktop-device} {
+        max-width: 570px;
+    }
+
+    @media #{$laptop-device} {
+        max-width: 650px;
+    }
+
+    @media #{$big-device} {
+        max-width: initial;
+    }
+}
+
+.contact-spin {
+    svg {
+        bottom: 200px;
+        right: 40px;
+
+        @media #{$desktop-device,$laptop-device,$big-device} {
+            right: 150px;
+            bottom: 80px;
+        }
+    }
+}
+
+.hero-btn-wraper {
+
+    margin-bottom: 50px;
+
+    @media #{$tablet-device,$desktop-device} {
+        margin-bottom: 60px;
+    }
+
+    @media #{$laptop-device} {
+        margin-bottom: 70px;
+    }
+
+    @media #{$big-device} {
+        margin-bottom: 80px;
+    }
+
+}
+
+.animate-spin {
+    transform-origin: center;
+    animation: animateSpin 7s linear infinite;
+}
+
+@keyframes animateSpin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}

@@ -1,0 +1,44 @@
+.portfolio-tag-link {
+    color: rgba(8, 8, 8, 0.8);
+    text-transform: uppercase;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: 1px solid rgba(8, 8, 8, 0.4);
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+
+    &:hover {
+        background-color: rgba(8, 8, 8, 0.95);
+        color: $white;
+        border-color: rgba(8, 8, 8, 0.95);
+    }
+}
+
+.portfolio-title {
+
+    &:hover {
+        a {
+            color: $warning;
+        }
+
+        .animate-arrow-up {
+            animation: moveUp 0.8s linear;
+        }
+    }
+}
+
+.portfolio-link {
+    font-size: 20px;
+    text-transform: capitalize;
+
+    @media #{$desktop-device} {
+        font-size: 24px;
+
+    }
+
+    @media #{$laptop-device,$big-device} {
+        font-size: 32px;
+
+    }
+}

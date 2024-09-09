@@ -1,0 +1,109 @@
+// Font Family
+$Syne: "Syne", sans-serif;
+$Inter: "Inter", sans-serif;
+$Poppins: "Poppins", sans-serif;
+$DMSans: "DM Sans", sans-serif;
+
+// Responsive Variables
+$extraBig-device: "only screen and (min-width: 1920px)";
+$big-device: "only screen and (min-width: 1441px)";
+$laptop-device: "only screen and (min-width: 1280px) and (max-width: 1440px)";
+$desktop-device: "only screen and (min-width: 992px) and (max-width: 1199px)";
+$tablet-device: "only screen and (min-width: 768px) and (max-width: 991px)";
+$large-mobile: "only screen and (max-width: 767px)";
+$small-mobile: "only screen and (max-width: 575px)";
+$extra-small-mobile: "only screen and (max-width: 479px)";
+$sm-device: "only screen and (min-width: 576px)";
+
+//===============================
+// Bootstrap Variables Overright
+//===============================
+
+
+// Color
+$primary: #FFB646;
+$secondary: #FFE9D9;
+$success: #4CAF50;
+$danger: #F44336;
+$warning: #FF9330;
+$info: #17A2B8;
+$light: #F8F9FA;
+$dark: #080808;
+
+$blue: #24E9FF;
+$violet: #BF29FF;
+$green: #05EB05;
+$yellow: #FFE600;
+$bermuda: #78dcca;
+
+//
+$body-color: #696969;
+$headings-color: #333333;
+//
+$white: #FFFFFF;
+$black: #1A1A1A;
+$grey: #F8F9FD;
+
+// theme colors map
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "success": $success,
+  "danger": $danger,
+  "warning": $warning,
+  "info": $info,
+  "light": $light,
+  "dark": $dark,
+);
+
+// Options
+$enable-negative-margins: true;
+// Spacing
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer * 0.3125,
+  2: $spacer * 0.625,
+  3: $spacer * 0.9375,
+  4: $spacer * 1.25,
+  5: $spacer * 1.625,
+  6: $spacer * 1.875,
+  7: $spacer * 2.1875,
+  8: $spacer * 2.5,
+  9: $spacer * 2.8125,
+  10: $spacer * 3.125,
+);
+// Grid breakpoints
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1280px,
+  2xl: 1440px,
+  3xl: 1920px,
+);
+
+// Grid containers
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1200px,
+  2xl: 1295px,
+);
+//
+$grid-gutter-width: 24px;
+//
+$gutters: $spacers;
+// Transition
+$transition-base: all 0.5s ease 0s;
+
+// Typography
+$font-family-base: $DMSans;
+$font-size-base: 1.125rem;
+$line-height-base: 1.55;
+//
+$headings-font-family: $Syne;
+$headings-font-weight: 700;
+$headings-line-height: 1.6;

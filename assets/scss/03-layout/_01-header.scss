@@ -1,0 +1,175 @@
+.header {
+    @media #{$laptop-device,$big-device} {
+        padding-left: 48px;
+    }
+}
+
+.header-inner {
+    padding-left: 16px;
+
+    @media #{$laptop-device,$big-device} {
+        padding-left: 0;
+    }
+
+}
+
+.header-border-bottom {
+    border-bottom: 1px solid rgba($color: $dark, $alpha: 40%);
+}
+
+.offcanvas-toggle {
+    padding: 28px 38px;
+}
+
+.contact-link {
+    margin-right: 8px;
+    padding: 6px 12px;
+    font-size: 15px;
+
+    &:hover {
+        color: $warning !important;
+
+        .animate-arrow-up {
+            animation: moveUp 0.8s linear;
+        }
+    }
+
+    @media #{$tablet-device} {
+        &:hover {
+            color: $white !important;
+        }
+    }
+
+    &.hover-text-white {
+        &:hover {
+            color: $white !important;
+        }
+    }
+
+}
+
+
+.animate-arrow-up {
+    display: inline-block;
+    margin-left: 12px;
+}
+
+@keyframes moveUp {
+    0% {
+        opacity: 1;
+        transform: translateX(0px) translateY(0px) scale(1);
+    }
+
+    25% {
+        opacity: 0;
+        transform: translateX(10px) translateY(-10px) scale(0.9);
+    }
+
+    26% {
+        opacity: 0;
+        transform: translateX(-10px) translateY(10px) scale(0.9);
+    }
+
+    55% {
+        opacity: 1;
+        transform: translateX(0px) translateY(0px) scale(1);
+    }
+}
+
+// offcanvas
+
+.offcanvas {
+    padding-left: 2rem;
+    width: 350px !important;
+    min-height: 700px;
+
+    @media #{$tablet-device,$laptop-device,$big-device} {
+        width: 460px !important;
+
+    }
+
+}
+
+.offcanvas-header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    margin-bottom: 80px;
+    padding: 0 !important;
+}
+
+.offcanvas-close {
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
+    padding-left: 38px;
+    padding-right: 38px;
+}
+
+.offcanvas-nav {
+    margin-right: 40px;
+}
+
+.offcanvas-menu-item {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+
+    &:hover {
+        a {
+            color: $warning !important;
+        }
+
+        .animate-arrow-up {
+            animation: moveUp 0.8s linear;
+        }
+    }
+}
+
+.offcanvas-menu-link {
+    transition-duration: 300ms;
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+
+
+}
+
+.offcanvas-social-links {
+    li {
+        a {
+            transition-duration: 300ms;
+
+            &:hover {
+                color: $warning !important;
+            }
+        }
+    }
+}
+
+.white-header {
+    @media #{$laptop-device,$big-device} {
+        padding-left: 3rem
+    }
+}
+
+// xl:pl-12
+
+.white-bg-header {
+    padding-left: 1rem;
+
+    @media #{$laptop-device,$big-device} {
+        padding-left: 0px;
+
+    }
+}
+
+.contact-link-warning {
+    color: rgba(8, 8, 8, 0.95);
+
+    &:hover {
+        color: $warning;
+
+        .animate-arrow-up {
+            animation: moveUp 0.8s linear;
+        }
+    }
+
+}

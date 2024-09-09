@@ -1,0 +1,124 @@
+.blog-grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+
+    @media #{$sm-device} {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    }
+
+
+    @media #{$tablet-device} {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+
+    }
+
+    @media #{$laptop-device,$big-device} {
+        grid-template-columns: repeat(4, minmax(0, 1fr))
+    }
+}
+
+
+.blog-meta-item {
+    padding-left: 30px;
+    position: relative;
+    z-index: 1;
+
+    &::before {
+        content: '';
+        width: 8px;
+        height: 8px;
+        border-radius: 100%;
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 15px;
+        z-index: -1;
+        transform: translateY(-50%);
+
+
+
+    }
+
+    &:first-child {
+        &::before {
+            background-color: $dark;
+        }
+
+        a {
+            color: rgba(8, 8, 8, 0.8);
+        }
+    }
+
+    &:last-child {
+        &::before {
+            background-color: $warning;
+        }
+
+        a {
+            color: $warning;
+        }
+    }
+}
+
+.blog-title-section {
+    &:hover {
+        a {
+            color: $warning;
+        }
+
+        .animate-arrow-up {
+            animation: moveUp 0.8s linear;
+        }
+    }
+}
+
+
+.blog-title {
+    font-size: 18px;
+
+    @media #{$tablet-device} {
+        font-size: 20px;
+
+    }
+
+    @media #{$big-device} {
+        font-size: 22px;
+    }
+}
+
+.blog-item {
+    &:nth-child(even) {
+        @media #{$sm-device} {
+            margin-top: 2.5rem
+        }
+    }
+
+}
+
+.blog-details-section {
+    margin-top: -280px;
+    padding-top: 280px;
+}
+
+.blog-clients-info {
+    column-gap: 80px;
+    row-gap: 24px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid rgba($color: #000000, $alpha: 0.1);
+    padding-left: 0;
+
+}
+
+.blog-social-link {
+    color: rgba($color: $dark, $alpha: 0.8);
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+    transition-duration: 300ms;
+
+    &:hover {
+        color: $warning;
+    }
+}

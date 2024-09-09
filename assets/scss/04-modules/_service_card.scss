@@ -1,0 +1,67 @@
+// px-6 py-7 bg-black-500 rounded-lg transition-all hover:shadow-2xl hover:bg-white group
+
+.service-card {
+    padding: 28px 24px;
+    background-color: rgba($color: $dark, $alpha: 0.04);
+    border-radius: 8px;
+    transition: all 0.3s;
+
+    &:hover {
+        background-color: $white;
+        box-shadow: 0px 36px 100px 0px rgba($color: $dark, $alpha: 0.15);
+
+        .service-icon {
+            background-color: rgba($color: $dark, $alpha: 0.04);
+        }
+
+        a {
+            color: $warning;
+        }
+
+        .animate-arrow-up {
+            animation: moveUp 0.8s linear;
+        }
+    }
+}
+
+.service-icon {
+    background-color: $white;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    width: 48px;
+    height: 48px;
+    margin-bottom: 32px;
+    border-radius: 100%;
+    transition: all 0.3s;
+
+}
+
+
+.service-card-link {
+    transition: all 0.3s;
+}
+
+
+.service-contact-card {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    max-width: 416px;
+    height: 100%;
+    position: relative;
+    border-radius: 8px;
+
+    &:hover {
+        .animate-arrow-up {
+            animation: moveUp 0.8s linear;
+        }
+    }
+}
+
+.say-hello-email {
+    @media #{$laptop-device,$big-device} {
+        font-size: 32px;
+    }
+}

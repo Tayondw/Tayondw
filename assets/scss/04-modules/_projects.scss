@@ -1,0 +1,154 @@
+.project-item {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+
+    &:hover {
+        &::before {
+            opacity: 0.8;
+        }
+
+    }
+
+    &::before {
+        position: absolute;
+        left: 0;
+        right: 0;
+        display: block;
+        content: '';
+        background-color: rgba(8, 8, 8, 0.60);
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition-property: opacity;
+        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        transition-duration: 150ms;
+        transition-duration: 300ms
+    }
+
+    &:hover {
+        .project-item-content {
+            bottom: 24px;
+
+        }
+
+
+    }
+}
+
+.project-title {
+
+    text-transform: capitalize;
+    font-size: 17px;
+
+    @media #{$sm-device} {
+        font-size: 20px;
+
+    }
+
+    @media #{$laptop-device} {
+        font-size: 24px;
+
+    }
+
+    @media #{$big-device} {
+        font-size: 28px;
+
+    }
+
+}
+
+.project-item-content {
+    left: 24px;
+    right: 24px;
+    bottom: -150px;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+    transition-duration: 300ms;
+
+}
+
+.project-item-contet-wrap {
+    a {
+        color: $white;
+        transition-property: all;
+        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        transition-duration: 150ms;
+        transition-duration: 300ms;
+    }
+
+    &:hover {
+        a {
+            color: $warning;
+
+        }
+
+        .animate-arrow-up {
+            animation: moveUp 0.8s linear;
+        }
+    }
+
+}
+
+
+.banner-title {
+    font-size: 32px;
+
+    @media #{$desktop-device,$laptop-device,$big-device} {
+        font-size: 44px;
+
+    }
+}
+
+
+
+.clients-info-item {
+    width: 50%;
+
+    @media #{$sm-device} {
+        width: 33.333333%;
+
+    }
+
+}
+
+.clients-info-text {
+    color: rgba(8, 8, 8, 0.8);
+}
+
+.project-details-section {
+    margin-top: -130px;
+    padding-top: 130px;
+
+    @media #{$tablet-device,$desktop-device,$laptop-device,$big-device} {
+        margin-top: -280px;
+        padding-top: 280px;
+
+    }
+
+}
+
+.list-style-squre {
+    li {
+        position: relative;
+        z-index: 1;
+        padding-left: 40px;
+
+        &::before {
+            position: absolute;
+            top: 50%;
+            left: 16px;
+            right: 0;
+            transform: translateY(-50%);
+            display: block;
+            content: '';
+            background-color: $dark;
+            width: 6px;
+            height: 6px;
+            z-index: -1;
+        }
+    }
+
+
+}

@@ -1,0 +1,49 @@
+#contact-form {
+    row-gap: 18px;
+}
+
+.address-item {
+    gap: 16px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgb(209 213 219 / 1);
+
+    @media (min-width: 992px) {
+        max-width: 416px;
+    }
+}
+
+
+.contact-form-control {
+    width: 100%;
+    border: 1px solid rgb(8 8 8 / 0.4);
+    border-radius: 8px;
+    padding: 16px;
+
+    &::placeholder,
+    &:focus {
+        opacity: 1;
+        color: rgba(8, 8, 8, 0.6);
+    }
+}
+
+textarea {
+    &.contact-form-control {
+        height: 100px;
+    }
+}
+
+.resize-none {
+    resize: none;
+}
+
+.contact-social-link {
+    color: $dark;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+    transition-duration: 300ms;
+
+    &:hover {
+        color: $warning;
+    }
+}

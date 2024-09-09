@@ -1,0 +1,83 @@
+.pricing-title-section {
+    max-width: 325px;
+
+    @media #{$desktop-device} {
+        max-width: 400px;
+    }
+
+    @media #{$laptop-device,$big-device} {
+        max-width: 527px;
+    }
+}
+
+
+.contact-for-custom-project {
+    margin-top: 2rem;
+
+    @media #{$tablet-device,$desktop-device,$laptop-device,$big-device} {
+        margin-top: 0;
+
+    }
+}
+
+.prcing-grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+
+    @media #{$sm-device} {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    }
+
+
+    @media #{$tablet-device} {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+
+    }
+
+    @media #{$laptop-device,$big-device} {
+        grid-template-columns: repeat(3, minmax(0, 1fr))
+    }
+}
+
+.pricing-item {
+    padding: 1.5rem;
+    gap: 2.5rem;
+    background-color: rgba(8, 8, 8, 0.04);
+    border-radius: 1rem;
+
+    a {
+        color: rgba(8, 8, 8, 0.6);
+    }
+
+    &:hover {
+        box-shadow: 0px 36px 100px 0px rgba($color: $dark, $alpha: 5%);
+        background-color: $white;
+
+        a {
+            color: $warning;
+        }
+
+        .animate-arrow-up {
+            animation: moveUp 0.8s linear;
+        }
+    }
+
+    @media #{$laptop-device,$big-device} {
+        padding: 2rem;
+        gap: 3rem;
+    }
+
+
+
+}
+
+.pricing-plan {
+    color: rgba(8, 8, 8, 0.6);
+
+}
+
+.pricing-rate {
+    color: $warning;
+}

@@ -1,0 +1,158 @@
+.featured-properties-space-left {
+	@media #{$desktop-device} {
+		padding-left: 60px;
+	}
+
+	@media #{$laptop-device} {
+		padding-left: 100px;
+	}
+
+	@media #{$big-device} {
+		padding-left: 134px;
+	}
+}
+
+.tabs.nav {
+	gap: 8px;
+	margin-top: 32px;
+	margin-bottom: 32px;
+}
+
+.based-in-title-tab {
+	margin-bottom: 24px;
+
+	@media #{$laptop-device} {
+		font-size: 32px;
+	}
+}
+
+.paragraph.mb-7 {
+	margin-bottom: 28px;
+}
+
+.paragraph.mb-14 {
+	margin-bottom: 56px;
+}
+
+.tab-contents-experience {
+	display: grid;
+	grid-template-columns: repeat(1, minmax(0, 1fr));
+
+	@media #{$sm-device} {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+}
+
+.experience-tab-item {
+	padding-top: 30px;
+	padding-bottom: 28px;
+	padding-left: 28px;
+	padding-right: 28px;
+	background-color: rgba($color: $dark, $alpha: 4%);
+	border-radius: 16px;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-duration: 150ms;
+
+	&:hover {
+		box-shadow: 0px 36px 100px 0px rgba($color: $dark, $alpha: 5%);
+		background-color: $white;
+	}
+}
+
+.education-tab-contents {
+	display: grid;
+	gap: 24px;
+	grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.education-tab-item {
+	gap: 30px;
+
+	@media #{$tablet-device} {
+		gap: 60px;
+	}
+
+	@media #{$desktop-device,$laptop-device,$big-device} {
+		gap: 100px;
+	}
+
+	padding-top: 30px;
+	padding-bottom: 28px;
+	padding-left: 28px;
+	padding-right: 28px;
+	background-color: rgba($color: $dark, $alpha: 4%);
+	border-radius: 16px;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-duration: 150ms;
+
+	&:hover {
+		box-shadow: 0px 36px 100px 0px rgba($color: $dark, $alpha: 5%);
+		background-color: $white;
+	}
+}
+
+.skills-tab-contents {
+	display: grid;
+	gap: 20px;
+	grid-template-columns: repeat(1, minmax(0, 1fr));
+
+	@media #{$sm-device} {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+
+	@media #{$tablet-device} {
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+	}
+
+	@media #{$desktop-device} {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+
+	@media #{$laptop-device,$big-device} {
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+	}
+}
+
+.skills-tab-item {
+	padding-top: 30px;
+	padding-bottom: 28px;
+	padding-left: 28px;
+	padding-right: 28px;
+	background-color: rgba($color: $dark, $alpha: 4%);
+	border-radius: 16px;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-duration: 150ms;
+
+	&:hover {
+		box-shadow: 0px 36px 100px 0px rgba($color: $dark, $alpha: 5%);
+		background-color: $white;
+	}
+}
+
+.awards-tab-contents {
+	display: grid;
+	gap: 24px;
+	grid-template-columns: repeat(1, minmax(0, 1fr));
+
+	@media #{$sm-device} {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+}
+
+.awards-tab-item {
+	gap: 32px;
+	padding: 32px;
+	background-color: rgba($color: $dark, $alpha: 4%);
+	border-radius: 16px;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-duration: 150ms;
+
+	&:hover {
+		box-shadow: 0px 36px 100px 0px rgba($color: $dark, $alpha: 5%);
+		background-color: $white;
+	}
+}
