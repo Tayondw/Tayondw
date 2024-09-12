@@ -1,4 +1,4 @@
-@@ -1,16 +1,30 @@
+
 - 👋 Hi, I’m Tayon Williams (@Tayondw)
 - 👀 Full-Stack Developer
 - 💞️ I’m looking to collaborate on projects that build knowledge upon me! 
