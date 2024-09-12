@@ -1,7 +1,6 @@
 @@ -1,16 +1,30 @@
 - 👋 Hi, I’m Tayon Williams (@Tayondw)
-- 👀 I’m interested in Software Development and Engineering
-- 📆 Currently in a SWE Bootcamp @AppAcademy
+- 👀 Full-Stack Developer
 - 💞️ I’m looking to collaborate on projects that build knowledge upon me! 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact:  I host weekly check-in meetings with men in the community, where we discuss and advocate for mental health! 
