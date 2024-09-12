@@ -1,6 +1,6 @@
+
 - 👋 Hi, I’m Tayon Williams (@Tayondw)
-- 👀 I’m interested in Software Development and Engineering
-- 📆 Currently in a SWE Bootcamp @AppAcademy
+- 👀 Full-Stack Developer
 - 💞️ I’m looking to collaborate on projects that build knowledge upon me! 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact:  I host weekly check-in meetings with men in the community, where we discuss and advocate for mental health! 
@@ -11,6 +11,7 @@
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayon/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayon@tayonenterprises.net)
+
 
 <!---
 Tayondw/Tayondw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
