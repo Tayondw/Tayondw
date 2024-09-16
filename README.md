@@ -1,5 +1,15 @@
 ![github-header](https://github.com/user-attachments/assets/12be51dd-543a-465e-9a96-928406d87839)
 
+<!---
+Tayondw/Tayondw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+## About Me
+**A Certified Chemist that jumped into the Sales portal ended at Software Engineering**
+
+You are probably wondering how I started off at chemistry and ended at software engineering, and my response to you is Life. In all seriousness though, I only had two passions in my adolescent days - Playing with household chemicals and Tumblr. I started off at chemistry because I wanted to know how chemicals worked - what about that chemical removes grease?, the why of why am I not allowed to mix it with bleach? Tumblr gave me passion because I was allowed to express myself how I wanted to express myself - with visuals and a network of tags. I did not know I was coding on Tumblr until I actually started coding a little over a year ago. When I was learning HTML/CSS I was like "oh I did something similar to this on Tumblr when I was younger". I started at chemistry first because I already had a leverage on attaining a chemistry degree due to being an International Baccalaureate (IB) scholar in high school. To sum up sales in a sentence, it was something to hold me over financially until until I completed getting my engineering degree; covid was a thing and so I halted and convinced myself to stop coding and go back to chemistry. Fast foward - here I am, not only fluent in chemistry and sales but also coding - JavaScript, Python, React, Flask, the list goes on. The journey from chemistry to software engineering is not just some old career switch, its the concoction of analytical talents with technological innovation that can be applied within any space.
+
 - 👋 Hi, I’m Tayon Williams (@Tayondw)
 - 👀 Full-Stack Developer
 - 💞️ I’m looking to collaborate on projects that build knowledge upon me! 
@@ -14,7 +24,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayon@tayonenterprises.net)
 
 
-<!---
-Tayondw/Tayondw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
