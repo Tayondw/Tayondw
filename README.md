@@ -66,6 +66,6 @@ My unique sense of humor, passion for clean code, and a keen eye for user-centri
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayondw&" alt="tayondw" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayondw&label=Profile%20views&color=0e75b6&style=flat" alt="tayondw" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayondw" alt="tayondw" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayondw&label=Profile%20views&color=0e75b6&style=flat" alt="tayondw" /> </p>
