@@ -60,6 +60,7 @@ My unique sense of humor, passion for clean code, and a keen eye for user-centri
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayondw@gmail.com)
 
 ## 📊 Stats:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayondw&show_icons=true&locale=en&layout=compact" alt="tayondw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayondw&show_icons=true&locale=en" alt="tayondw" /></p>
