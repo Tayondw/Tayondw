@@ -50,10 +50,10 @@ My unique sense of humor, passion for clean code, and a keen eye for user-centri
 ![image](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="28" alt="figma logo"  />
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
-<img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="30" alt="markdown logo"  />
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
-<img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" height="30" alt="mocha logo"  />
+<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="28" alt="canva logo"  />
+<img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="28" alt="markdown logo"  />
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="28" alt="npm logo"  />
+<img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" height="28" alt="mocha logo"  />
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayon/)
