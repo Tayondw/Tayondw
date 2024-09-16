@@ -69,3 +69,5 @@ My unique sense of humor, passion for clean code, and a keen eye for user-centri
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayondw" alt="tayondw" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayondw&label=Profile%20views&color=0e75b6&style=flat" alt="tayondw" /> </p>
+
+<img src="https://raw.githubusercontent.com/Tayondw/Tayondw/output/snake.svg" alt="Snake animation" />
