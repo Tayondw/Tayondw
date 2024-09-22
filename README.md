@@ -70,24 +70,13 @@ My unique sense of humor, passion for clean code, and a keen eye for user-centri
 
 ## 📊 Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayondw&show_icons=true&locale=en&layout=compact" alt="tayondw" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayondw&show_icons=true&locale=en" alt="tayondw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayondw&" alt="tayondw" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayondw" alt="tayondw" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayondw&label=Profile%20views&color=0e75b6&style=flat" alt="tayondw" /> </p>
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tayondw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Tayondw&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tayondw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayondw" alt="tayondw" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayondw&label=Profile%20views&color=0e75b6&style=flat" alt="tayondw" /> </p>
+
