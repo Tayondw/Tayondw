@@ -74,7 +74,6 @@ My unique sense of humor, passion for clean code, and a keen eye for user-centri
 <div align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayondw&label=Profile%20views&color=0e75b6&style=flat" alt="tayondw" /> </p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayondw&theme=dark" alt="tayondw" /></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayondw&theme=default&hide_border=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tayondw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Tayondw&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayondw&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
