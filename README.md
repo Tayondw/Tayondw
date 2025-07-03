@@ -85,6 +85,7 @@ My unique sense of humor, passion for clean code, and a keen eye for user-centri
 ## 📊 Stats:
 
 <div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayondw&show_icons=true&theme=dark&locale=en" alt="tayondw" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayondw&theme=dark" alt="tayondw" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tayondw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Tayondw&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
