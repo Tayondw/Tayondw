@@ -86,8 +86,8 @@ My unique sense of humor, passion for clean code, and a keen eye for user-centri
 
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayondw&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="tayondw" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayondw&theme=dark" alt="tayondw" /></p>
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayondw&theme=dark" alt="tayondw" /></p> -->
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayondw&show_icons=true&theme=dark&locale=en&layout=compact" alt="tayondw" /></p>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tayondw&theme=light" alt="tayondw" /></a> </p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayondw&bg_color=0d1117&color=1e70eb&line=1e70eb&point=59a7ff&area=true&hide_border=true" height="300" alt="activity-graph graph"  />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayondw&bg_color=0d1117&color=1e70eb&line=1e70eb&point=59a7ff&area=true&hide_border=true" height="300" alt="activity-graph graph"  /> -->
 </div>
