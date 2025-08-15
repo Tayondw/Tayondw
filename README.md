@@ -3,15 +3,17 @@
 <!---
 Tayondw/Tayondw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+## 👋 About Me:
+## 🖥️ Still want to know why software engineering?:
 --->
 
-## 👋 About Me:
+## About Me:
 
 **A Certified Chemist that jumped into the Sales portal ended at Software Engineering**
 
 You might wonder how I went from chemistry to software engineering, and my answer is simple: life. I was passionate about two things growing up—chemicals and Tumblr. Chemistry fascinated me because I wanted to understand how things worked, like why some chemicals remove grease and why you shouldn't mix them with bleach. Tumblr, on the other hand, let me express myself with visuals and tags, though I didn't realize I was coding back then. Years later, learning HTML/CSS felt familiar because I had done similar things on Tumblr. I initially pursued chemistry, as I had an advantage with an IB diploma, but sales was just a temporary financial solution. After a pause due to COVID, I returned to coding. Now, I’m fluent not only in chemistry and sales but also in programming—JavaScript, Python, React, Flask, and more. My journey wasn’t a typical career switch; it's the blend of analytical skills and tech innovation that applies across various fields.
 
-## 🖥️ Still want to know why software engineering?:
+## Still want to know why software engineering?:
 
 
 I love solving problems that seem simple but no one has tackled yet. I've always considered myself a jack-of-all-trades, proud of knowing how to do just about everything, whether at home or work. I enjoy learning new skills, and software engineering lets me combine my experiences as an Operations Manager, Clerk-Trainer, Chemist, and Sales Manager into the applications I create. It enhances my skills, gives me purpose, and lets me be the change I want to see. The joy of building solutions from my own ideas, using just my hands, fingertips, and brain, is unmatched. Through software engineering, I help companies and individuals solve problems and be the person I aspire to be.
